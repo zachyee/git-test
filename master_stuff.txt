@@ -1,3 +1,8 @@
 This line is created by the master branch.
+<<<<<<< HEAD
 
 This line is created by master branch after feature push.
+=======
+This line is created after the feature fix but before 
+the feature was pushed.
+>>>>>>> 59a4324e7bbe4e7ef38c0367a15900fe61304c09

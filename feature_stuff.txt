@@ -1,3 +1,8 @@
 This stuff is created by the master branch.
 
 This stuff is actually created by the feature branch.
+<<<<<<< HEAD
+=======
+
+This stuff is created after master pushed its modification.
+>>>>>>> 59a4324e7bbe4e7ef38c0367a15900fe61304c09
